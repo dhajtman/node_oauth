@@ -1,3 +1,6 @@
 # npm
 /node_modules
 credentials.json
+.DS_Store
+.vscode
+package-lock.json
